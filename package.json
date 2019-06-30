@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-passport",
+  "name": "rmm-admin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,8 @@
     "build": "next build ./src",
     "start": "NODE_ENV=production node ./src/server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["rentmindme", "rmm", "admin", "dashboard"],
+  "author": "RentMindMe",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.0.0",

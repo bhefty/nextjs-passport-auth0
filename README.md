@@ -1,1 +1,1 @@
-# nextjs-passport-auth0
+# RentMindMe Admin Dashboard
